@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/LeetCodeCPP/x64/Debug
+/LeetCodeCPP/LeetCodeCPP/x64/Debug
+/LeetCodeCPP/LeetCodeCPP/Debug
+/LeetCodeCPP/Debug
